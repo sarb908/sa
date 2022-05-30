@@ -71,7 +71,6 @@
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
     },
-
     {
       "title": "sar",
       "category": "shirt",
@@ -87,6 +86,38 @@
       "imageSrc": "https://picsum.photos/seed/picsum5/421/261",
       "price": "34",
       "id": 13
+    },
+    {
+      "title": "sarb",
+      "category": "shirt",
+      "gender": "male",
+      "imageSrc": "https://picsum.photos/seed/picsum5/421/261",
+      "price": "34",
+      "id": 14
+    },
+    {
+      "title": "egff",
+      "category": "shirt",
+      "gender": "male",
+      "imageSrc": "https://picsum.photos/seed/picsum5/421/261",
+      "price": "34",
+      "id": 15
+    },
+    {
+      "title": "efw",
+      "category": "shirt",
+      "gender": "male",
+      "imageSrc": "https://picsum.photos/seed/picsum5/421/261",
+      "price": "34",
+      "id": 16
+    },
+    {
+      "title": "sad",
+      "category": "shirt",
+      "gender": "female",
+      "imageSrc": "https://picsum.photos/seed/picsum5/421/261",
+      "price": "asd",
+      "id": 17
     }
   ]
 }

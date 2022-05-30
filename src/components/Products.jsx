@@ -35,7 +35,7 @@ const Products = () => {
         ...e,
       })
       .then((d) => d.data)
-      .then((d) => setData({ ...data, d }));
+      .then((d) => setData([...data, d]));
   };
   const limitHandler = (e) => {
     setLimit(e);
